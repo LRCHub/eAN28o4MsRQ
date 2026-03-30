@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "アルカホール",
   "base_artist": "amazarashi",
-  "createdAt": "2026-03-30T04:23:23.188799Z",
+  "createdAt": "2026-03-30T04:27:03.971020Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "amazarashi",
       "has_synced": false,
       "path": "select/pl_01_アルカホール_amazarashi.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "アルカホール",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/localdb_01_アルカホール_amazarashi.lrc",
+      "repo_name": "eAN28o4MsRQ"
     }
   ]
 }
